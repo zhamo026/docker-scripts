@@ -16,9 +16,7 @@ apk upgrade       #to upgrade
 ```
 3.To edit the repositories if necessary 
 ```bash
-nano /etc/apk/repositories #with nano
-
-vin /etc/apk/repositories  #with vin
+nano /etc/apk/repositories #with nano, vim, etc...
 
 # you can add or remove repositories,
 # additionally you can change alpine version ''Alpine 3.xx to 3.xx''.
