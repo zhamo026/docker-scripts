@@ -25,5 +25,8 @@ nano /etc/apk/repositories #with nano, vim, etc...
 
 
 ```bash
-
+apk add docker docker-compose  #It install docker and docker compose
+```
+```bash
+apk add docker docker-compose  #It install docker and docker compose
 ```
