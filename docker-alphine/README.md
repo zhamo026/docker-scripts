@@ -14,7 +14,7 @@ apk update        #to update
 apk upgrade       #to upgrade
 
 ```
-3.To edit the repositories if necessary 
+3.If necessary you can edit the repositories
 ```bash
 nano /etc/apk/repositories #with nano, vim, etc...
 
