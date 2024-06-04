@@ -16,3 +16,6 @@ https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/t
 
 default:
 https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json
+
+
+make sure to addd permission to the contaner folder or you will get errors (nginx)
