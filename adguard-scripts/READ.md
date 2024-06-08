@@ -1,8 +1,8 @@
 # AdguardSync: 
-(Source-bakito)[https://github.com/bakito/adguardhome-sync]
+[Source-bakito](https://github.com/bakito/adguardhome-sync)
 
 
-
+```bash
 ---
 version: "2.1"
 services:
