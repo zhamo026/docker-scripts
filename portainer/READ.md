@@ -13,6 +13,8 @@ https://raw.githubusercontent.com/ntv-one/portainer/main/template.json
 
 https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json
 
+https://raw.githubusercontent.com/Lissy93/portainer-templates/main/templates.json  #500
+
 
 default:
 https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json
